@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+	line-height: 1.6;
+	padding: 12rem;
+}
+
+h1 {
+	text-align: center;
+	color: blueviolet;
+	font-weight: 900;
+}
+
+h3 {
+	text-align: center;
+	color: chocolate;
+	font-weight: 600;
+}

@@ -1,0 +1,41 @@
+body {
+    padding: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    color: crimson;
+}
+
+.container {
+    display: flex;
+    height: 300px;
+    margin-top: 50px;
+    margin-right:0px ;
+    margin-left: 300px; 
+    flex-direction: row;
+}
+
+.container-1 {
+    display: flex;
+    height: 300px;
+    margin-top: 100px;
+    margin-right:0px ;
+    margin-left: 300px; 
+    flex-direction: row;
+}
+
+.box {
+    padding: 30px;
+}
+
+.text {
+    text-align: center;
+    font-style: normal;
+    padding-top: 15px;
+}
+
